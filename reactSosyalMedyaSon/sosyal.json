@@ -1,0 +1,67 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Haberler"
+    },
+    {
+      "id": 2,
+      "name": "Videolar"
+    },
+    {
+      "id": 3,
+      "name": "Resimler"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "content": "Merhaba herkese!",
+      "image": "",
+      "video": "",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "content": "Tatilimin keyfini çıkarıyorum!",
+      "image": "https://nextui.org/images/card-example-4.jpeg",
+      "video": "",
+      "category_id": 2
+    },
+    {
+      "id": 3,
+      "content": "Yeni film çıkışına çok heyecanlıyım!",
+      "image": "",
+      "video": "",
+      "category_id": 3
+    },
+    {
+      "id": 4,
+      "content": "Yeni film çıkışına çok heyecanlıyım!",
+      "image": "",
+      "video": "",
+      "category_id": 3
+    },
+    {
+      "id": 5,
+      "content": "Yeni film çıkışına çok heyecanlıyım!",
+      "image": "",
+      "video": "",
+      "category_id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userMail": "deneme@gmail.com",
+      "userPassword": "123",
+      "userName": "Hüseyin Akbulut"
+    },
+    {
+      "id": 2,
+      "userMail": "deneme2@gmail.com",
+      "userPassword": "123",
+      "userName": "İsmail Yazıcı"
+    }
+  ]
+}
